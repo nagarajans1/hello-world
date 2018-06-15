@@ -1,5 +1,4 @@
 # hello-world
-Sachin's first respository
 
 Hello there future Sachin, 
 
